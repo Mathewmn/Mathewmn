@@ -1,6 +1,6 @@
 # Matin Norouzi Nejad
 
-I work on web and ecommerce projects and am developing my software engineering portfolio in Java and React. My commercial background includes WordPress, WooCommerce, product content and SEO at CAMPSHOPPING.
+I work on web and ecommerce projects and am developing my software engineering portfolio in Java, React and Python. My commercial background includes WordPress, WooCommerce, product content and SEO at CAMPSHOPPING.
 
 I am completing a BSc in Polymer Engineering at Islamic Azad University’s Science and Research Branch in Tehran, with graduation expected in January–February 2027. I am seeking early-career engineering opportunities in Germany and other European countries with employer-supported relocation.
 
@@ -13,6 +13,10 @@ A Spring Boot service exploring request idempotency and transactional Outbox del
 ### [PulseOps Dashboard](https://github.com/Mathewmn/pulseops-dashboard)
 
 A React and TypeScript telemetry demonstration with worker batching, virtualized rendering, filters and optimistic configuration updates. The repository includes source code, tests and a walkthrough of save failure and rollback.
+
+### [Stockbridge Reconciler](https://github.com/Mathewmn/stockbridge-reconciler)
+
+A Python and SQLite inventory ledger with idempotent imports, atomic stock and audit updates, and CSV reconciliation. The synthetic demo and 11 tests cover concurrent retries, overselling and rollback. GitHub Actions runs the tests on Python 3.11, 3.12 and 3.13.
 
 ## Working approach
 
